@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const jsonTypicode = "https://jsonplaceholder.typicode.com/todos/1";
+const jsonTypicode = "https://randomfox.ca/floof/?ref=apilist.fun";
 
 async function fetchData(apiEndPoint) {
   try {
